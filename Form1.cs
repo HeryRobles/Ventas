@@ -42,6 +42,8 @@ namespace Ventas
             productos.Add(memoria);
             productos.Add(discoDuro);
             productos.Add(laptop);
+
+            dgvProductos.DataSource = productos;
         }
     }
 }

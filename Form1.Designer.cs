@@ -38,7 +38,7 @@
             // btnAgregarProducto
             // 
             this.btnAgregarProducto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAgregarProducto.Location = new System.Drawing.Point(679, 411);
+            this.btnAgregarProducto.Location = new System.Drawing.Point(670, 369);
             this.btnAgregarProducto.Name = "btnAgregarProducto";
             this.btnAgregarProducto.Size = new System.Drawing.Size(152, 83);
             this.btnAgregarProducto.TabIndex = 0;
@@ -51,7 +51,7 @@
             this.dgvProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvProductos.Location = new System.Drawing.Point(0, 1);
             this.dgvProductos.Name = "dgvProductos";
-            this.dgvProductos.Size = new System.Drawing.Size(840, 404);
+            this.dgvProductos.Size = new System.Drawing.Size(661, 331);
             this.dgvProductos.TabIndex = 1;
             // 
             // dataGridView2
